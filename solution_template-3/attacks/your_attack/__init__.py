@@ -1,0 +1,1 @@
+from .your_attack import YourAttack

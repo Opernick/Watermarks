@@ -1,0 +1,1 @@
+from .stablesignature import StableSignatureDecoder
